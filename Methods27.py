@@ -3,7 +3,7 @@
 #import Spiel_1_27
 
 def Start():
-    print ('RandomTurtleStudios präsentieren: \n \n')
+    print ('RandomTurtleStudios prÃ¤sentieren: \n \n')
     print ('Platzhalter!!!! \n \n')
     #Jetzt geht's los
     print ('Kapitel 1: Der Spiegel \n')
@@ -11,13 +11,13 @@ def Start():
 Auf dem Weg nach Garn, der Hauptstadt von Boden. \
 Er ist gerade durch das Bergdorf Fettfleck geritten. \
 Er sieht die Weinberge, den Fluss, das entfernte Dorf. \
-Plötzlich, ein Rumpeln, ein Krachen. \
+PlÃ¶tzlich, ein Rumpeln, ein Krachen. \
 Schwere Steinbrocken fallen von den umliegenden Bergen auf den Reiter hinab. \
-Das Pferd bäumt sich auf, wirft den Reiter ab. \
-Er fällt hinab, rollt über den Berg auf den Fluss zu. \
-Plötzlich ein Schlag. \
-Ein Stück Treibholz hat ihm gegen den Kopf geschlagen. \
-Er wird ohnmächtig.')
+Das Pferd bÃ¤umt sich auf, wirft den Reiter ab. \
+Er fÃ¤llt hinab, rollt Ã¼ber den Berg auf den Fluss zu. \
+PlÃ¶tzlich ein Schlag. \
+Ein StÃ¼ck Treibholz hat ihm gegen den Kopf geschlagen. \
+Er wird ohnmÃ¤chtig.')
     return('Funktion erfolgreich')
 
 class Person:
@@ -42,4 +42,4 @@ class Person:
 
     
 def Entscheidung_2():
-    print '{}'
+    print Spiel_1_27.person.personalpronom2 + 'schwimmt langsam ans Ufer.'
